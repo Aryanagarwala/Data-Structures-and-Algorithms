@@ -19,6 +19,9 @@ Completed algorithms:
  * Merge Sort
  * Heap
  * Heap Sort
+ * Topological Sorting
+ * Sieve of Eratosthenes
+ * Kadane's
 
  Algorithm goals:
  * Prim's Algorithm
@@ -28,13 +31,10 @@ Completed algorithms:
  * Stack
  * Queue
  * Doubly Linked List
- * Kadane's
  * Factorisation (including prime)
  * Fenwick Tree
  * Strongly Connected Components
- * Topological Sorting
  * Euler Path
- * Sieve of Eratosthenes
  * Treap
  * Trie
  * Knuth-Morris-Pratt
@@ -48,3 +48,5 @@ Completed algorithms:
  * Centroid Decomposition
  * Game Theory - Standard games
  * Fast Fourier Transform
+ * Square Root Decomposition
+ * Mo's Algorithm
