@@ -24,4 +24,4 @@ aryan@agarwalas.in
 My handle on all competitive programming websites is aggu_01000101
 
 Warm Regards,
-Aryan Agarwala
+ Aryan Agarwala
