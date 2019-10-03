@@ -19,9 +19,11 @@ NOTE: I have uploaded the code for many algorithms and data structures such as m
 
 If anyone has any recommendations or needs to contact me regarding my work on this, you can reach me at:
 aryan@agarwalas.in
+or
 +91 8860756594 (Whatsapp)
 
 My handle on all competitive programming websites is aggu_01000101
 
 Warm Regards,
+
 Aryan Agarwala
