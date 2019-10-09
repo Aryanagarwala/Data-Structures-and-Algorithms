@@ -19,6 +19,7 @@ Completed algorithms:
  * Sparse Table 7/10
  * Euclidean Algorithm 2/10
  * Merge Sort 5/10
+ * Quick Sort 6/10
  * Heap 5/10
  * Heap Sort 3/10
  * Topological Sorting 6/10
