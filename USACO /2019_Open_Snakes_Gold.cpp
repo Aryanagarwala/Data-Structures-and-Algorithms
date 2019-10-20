@@ -1,8 +1,7 @@
 #include <iostream>
 #include <fstream>
-#define int long long
 using namespace std;
-int32_t main() {
+int main() {
     int n, k;
     ofstream fout("snakes.out");
     ifstream fin("snakes.in");
