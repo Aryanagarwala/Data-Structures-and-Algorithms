@@ -12,7 +12,7 @@ int LeftChild(int Index){
     return Index*2 + 1;
 }
 int RightChild(int Index){
-    return Index*2 + 2;
+    reIndex*2 + 2;
 }
 int MergeOperation(int Value1, int Value2){
     return min(Value1, Value2);
