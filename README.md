@@ -5,9 +5,8 @@ Hi,
 This is a repository of algorithms and data structures in their most standard form. Its intended purpose is to be a learning source for students preparing for IOI/ICPC. I have made all variable and function names meaningful in order to facilitate easy understanding.  
 
 I will continue to update the library of algorithms as I continue learning them. 
-Eventually, I will also start uploading solutions of interesting problems from CodeChef, CodeForces, INOI, POI, JOI, USACO, BOI, etc.
+Eventually, I will also upload my solutions of interesting problems from CodeChef, CodeForces, and various Informatics Olympiads.
 
-I will keep a list of algorithms that I have uploaded in a file named INFORMATION.txt.
 
 The algorithms included have various difficult levels. Next to each algorithm I will put my rating of how difficult I found it. This rating is a combination of the difficulty involved in learning, as well as implementing it. I recommend that those learning algorithms start from easier topics and work their way up. No algorithm can be properly learned without also solving problems based on it. Thus, I will also upload problem links next to the algorithms whenever I find the time.
 
